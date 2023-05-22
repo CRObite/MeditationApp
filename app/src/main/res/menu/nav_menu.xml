@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/timer"
+        android:icon="@drawable/timer_icon"
+        />
+    <item
+        android:id="@+id/persone"
+        android:icon="@drawable/person_icon"
+        />
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/music_icon"
+        />
+</menu>
